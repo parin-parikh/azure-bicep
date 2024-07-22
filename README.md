@@ -90,5 +90,3 @@ This Bicep template creates a Storage Account with a unique name in the specifie
 - [Azure Bicep Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
 ---
-
-Feel free to customize this README to better suit your project's specifics. Happy deploying!
